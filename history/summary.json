@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ymstnt.com.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "96.71%",
-    "uptimeDay": "96.71%",
-    "uptimeWeek": "96.71%",
-    "uptimeMonth": "96.71%",
-    "uptimeYear": "96.71%",
-    "time": 730,
-    "timeDay": 730,
-    "timeWeek": 730,
-    "timeMonth": 730,
-    "timeYear": 730,
-    "dailyMinutesDown": {
-      "2024-01-07": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 696,
+    "timeDay": 696,
+    "timeWeek": 696,
+    "timeMonth": 696,
+    "timeYear": 696,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Moe",
@@ -25,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ymstnt.com.ico",
     "slug": "moe",
     "status": "up",
-    "uptime": "96.73%",
-    "uptimeDay": "96.73%",
-    "uptimeWeek": "96.73%",
-    "uptimeMonth": "96.73%",
-    "uptimeYear": "96.73%",
-    "time": 170,
-    "timeDay": 170,
-    "timeWeek": 170,
-    "timeMonth": 170,
-    "timeYear": 170,
-    "dailyMinutesDown": {
-      "2024-01-07": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 161,
+    "timeDay": 161,
+    "timeWeek": 161,
+    "timeMonth": 161,
+    "timeYear": 161,
+    "dailyMinutesDown": {}
   }
 ]
