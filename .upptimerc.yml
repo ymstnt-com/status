@@ -6,11 +6,7 @@ sites:
   - name: Website
     url: https://ymstnt.com
   - name: Moe
-    url: https://ymstnt.com/moebot-heartbeat.php
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
+    url: http://ymstnt.com:25571
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
