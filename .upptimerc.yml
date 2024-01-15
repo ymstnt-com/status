@@ -20,6 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/ymstnt/status/master/assets/tnt512circle.png
   favicon: https://raw.githubusercontent.com/ymstnt/status/master/assets/favicon.png
   name: YMSTNT Services
+  themeUrl: https://status.ymstnt.com/catppuccin.css
   robotsText: "User-agent: * \n Disallow: /"
   navbar:
     - title: Status
