@@ -4,10 +4,10 @@
     "url": "https://ymstnt.com",
     "icon": "https://icons.duckduckgo.com/ip3/ymstnt.com.ico",
     "slug": "ymstnt-and-com-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 637,
@@ -15,14 +15,16 @@
     "timeWeek": 665,
     "timeMonth": 637,
     "timeYear": 637,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-27": 1
+    }
   },
   {
     "name": "Moe",
     "url": "http://ymstnt.com:25571",
     "icon": "https://icons.duckduckgo.com/ip3/ymstnt.com.ico",
     "slug": "moe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 323,
     "timeYear": 320,
     "dailyMinutesDown": {
+      "2024-09-27": 0,
       "2024-08-18": 20,
       "2024-08-02": 63,
       "2024-07-30": 19,
