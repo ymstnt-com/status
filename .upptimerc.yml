@@ -15,13 +15,15 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/ymstnt/status/master/assets/tnt512circle.png
   favicon: https://raw.githubusercontent.com/ymstnt/status/master/assets/favicon.png
-  name: YMSTNT Services
+  name: ymstnt services
   themeUrl: https://status.ymstnt.com/catppuccin.css
   robotsText: "User-agent: * \n Disallow: /"
   navbar:
     - title: Status
       href: /
     - title: Home
+      href: https://ymstnt.dev
+    - title: ymstnt & com.
       href: https://ymstnt.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
