@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ymstnt.com.ico",
     "slug": "ymstnt-and-com-website",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 673,
-    "timeDay": 498,
-    "timeWeek": 1172,
-    "timeMonth": 751,
+    "timeDay": 780,
+    "timeWeek": 1167,
+    "timeMonth": 758,
     "timeYear": 673,
     "dailyMinutesDown": {
       "2024-10-20": 876,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 323,
-    "timeDay": 300,
-    "timeWeek": 327,
-    "timeMonth": 315,
+    "timeDay": 383,
+    "timeWeek": 321,
+    "timeMonth": 318,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2024-11-22": 25,
@@ -59,8 +59,7 @@
       "2024-03-20": 364,
       "2024-01-31": 30,
       "2024-01-30": 45,
-      "2024-01-15": 19,
-      "2024-01-11": 326
+      "2024-01-15": 19
     }
   }
 ]
