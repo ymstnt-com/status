@@ -4,7 +4,7 @@
     "url": "https://ymstnt.com",
     "icon": "https://icons.duckduckgo.com/ip3/ymstnt.com.ico",
     "slug": "ymstnt-and-com-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 636,
     "timeYear": 667,
     "dailyMinutesDown": {
+      "2025-02-27": 0,
       "2025-01-31": 70,
       "2024-10-20": 876,
       "2024-10-19": 139,
